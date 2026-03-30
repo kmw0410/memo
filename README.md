@@ -1,12 +1,14 @@
 # 📝 Memo App
 
-다크모드 메모 웹 애플리케이션 — Alpine Linux + Nginx + PHP 8.4 + SQLite
+다크모드 메모 웹 애플리케이션
+
+<img width="2551" height="1276" alt="image" src="https://github.com/user-attachments/assets/b49a59fa-0b33-4f94-b1e8-4b2000a3b26f" />
 
 ## 기술 스택
 
 | 레이어 | 기술 |
 |--------|------|
-| OS | Alpine Linux 3.19 |
+| OS | Alpine Linux 3.19 (미러: mirror.krfoss.org/alpine) |
 | Web Server | Nginx |
 | Runtime | PHP 8.4-FPM |
 | Database | SQLite (WAL 모드) |
