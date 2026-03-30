@@ -4,6 +4,8 @@
 
 <img width="2551" height="1276" alt="image" src="https://github.com/user-attachments/assets/b49a59fa-0b33-4f94-b1e8-4b2000a3b26f" />
 
+프리뷰는 [서버포럼 게시글](https://svrforum.com/software/3066660)에서 확인할수 있습니다
+
 ## 기술 스택
 
 | 레이어 | 기술 |
