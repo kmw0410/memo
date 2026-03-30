@@ -2,8 +2,6 @@
 
 다크모드 메모 웹 애플리케이션
 
-[ 한국어 | [ENGLISH](https://github.com/kmw0410/memo/README_EN.md) ]
-
 <img width="2551" height="1276" alt="image" src="https://github.com/user-attachments/assets/a09fe58b-c90b-4a6e-97c0-63f65dfb1ea6" />
 
 ## 기술 스택
